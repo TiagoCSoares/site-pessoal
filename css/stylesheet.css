@@ -1,0 +1,157 @@
+.backgroundimage {
+    background-image: url("../imgs/ken.jpg");
+    height: 1000px;
+    color:white;
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    position: relative;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0.75;
+}
+
+.home {
+    color: white;
+    background-color: black;
+    padding: 0.6em;
+    padding-left: 3em;
+}
+  
+body {
+    background-color: black;
+}
+  
+.h1toppage {
+    margin-left: 80px;
+    margin-top: 300px;
+    font-family: "Oswald", sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+}
+  
+.h4toppage {
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 25px
+}
+  
+
+.titles {
+    color:white;
+    background-color:#007047;
+    padding:1.5em 1.25em;
+    margin-left:240px;
+    margin-right:240px;
+    font-family: "Oswald", sans-serif;
+    font-size: 40px;
+  }
+  
+  .subtitles {
+    color:white;
+    background-color:#003663;
+    padding:1.5em 1.25em;
+    margin-left:240px;
+    margin-right:240px;
+    margin-top:-15px;
+    font-family: "Oswald", sans-serif;
+    font-size: 30px;
+}
+  
+.subtitles1{
+    color:white;
+    background-color:#003663;
+    padding:1.5em 1.25em;
+    font-family: "Oswald", sans-serif;
+    font-size: 29px;
+    margin-left:240px;
+    word-wrap:normal;
+    text-align: center;
+}
+
+.subtitles2{
+    color:white;
+    background-color:#003663;
+    padding:1.5em 1.25em;
+    font-family: "Oswald", sans-serif;
+    font-size: 29px;
+    margin-left:20px;
+    word-wrap:normal;
+    text-align: center;
+}
+.content {
+    color:white;
+    background-color:#0078bd;
+    padding:1.75em;
+    margin-left:240px;
+    margin-right:240px;
+    margin-top:-10px;
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+}
+
+.content1 {
+    color:white;
+    background-color:#0078bd;
+    padding:1.75em;
+    margin-left:240px;
+    margin-top:-10px;
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+}
+
+.content2 {
+    color:white;
+    background-color:#0078bd;
+    padding:1.75em;
+    margin-left:20px;
+    margin-top:-10px;
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+}
+
+
+.imgs {
+    display: inline-block;
+}
+
+.draw {
+    display: inline-block;
+    max-width:270px;
+}
+
+#imgs1 {
+    margin-left:240px;
+}
+
+#titles1 {
+    margin-top:150px;
+}
+
+#titles2 {
+    margin-top:100px;
+}
+
+#subtitles {
+    display:inline-block;
+}
+
+.pnone {
+    color:white;
+    margin-left:240px;
+    margin-right:240px;
+    margin-top:-10px;
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+}
+/*
+.books {
+    display: inline-block;
+    
+}
+
+.img {
+    max-width:50px;
+    max-height:50%;
+}
+*/
